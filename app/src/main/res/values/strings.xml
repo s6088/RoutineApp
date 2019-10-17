@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoListView</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_0">Sunday</string>
+    <string name="tab_text_1">Monday</string>
+    <string name="tab_text_2">Tuesday</string>
+    <string name="tab_text_3">Wednesday</string>
+    <string name="tab_text_4">Thursday</string>
+</resources>
